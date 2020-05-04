@@ -1,0 +1,97 @@
+html {
+	background: url(../images/2010.jpg) no-repeat center center fixed; 
+	  -webkit-background-size: cover;
+	  -moz-background-size: cover;
+	  -o-background-size: cover;
+	background-size: cover;
+}
+
+body {
+	max-height:100%;
+	max-width:100%;
+}
+
+h1 {
+	text-align:center;
+	padding-top:20px;
+}
+
+h2 {
+	text-align:center;
+	padding-top:20px;
+}
+
+img {
+	max-width:100%;
+}
+
+iframe {
+	margin:auto;
+	padding:auto;
+	padding-bottom:5%;
+}
+
+footer {
+	background-color:white;
+	opacity:0.90;
+	margin: 0% 10% 0% 10%;
+}
+
+footer p {
+	width:90%;
+}
+
+#navbar {
+	list-style-type:none;
+	margin:auto;
+	padding:auto;
+	overflow:hidden;
+	background-color:black;
+}
+
+#navbar li {
+	float:left;
+}
+
+#navbar li a {
+	display:block;
+	color:white;
+	text-align:center;
+	text-decoration:none;
+	padding:15px 15px;
+}
+
+#navbar li a:hover {
+	background-color:rgb(85,37,130);
+	color:rgb(253,185,39);
+}
+
+p {
+	font-size:16px;
+	margin:2% 5% 2% 5%;
+}
+
+#container {
+	background-color:white;
+	opacity:0.90;
+	margin: 0% 10% 0% 10%;
+}
+
+#accolades {
+	list-style-type:none;
+	margin:auto;
+	padding:auto;
+	overflow:hidden;
+}
+
+#accolades li {
+	display:block;
+	text-decoration:none;
+	font-size:18px;
+	margin:auto;
+	padding:auto;
+}
+
+.center {
+	text-align:center;
+}
